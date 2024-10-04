@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Coding, building something creative 
 - 🌱 I’m currently learning ...Web develpoment and Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...wayush777@gmaail.com
+- 📫 How to reach me ...wayush777@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...Messi is best
 
