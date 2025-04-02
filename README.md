@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayushwaman
 - 👀 I’m interested in ...Coding, building something creative 
-- 🌱 I’m currently learning ...Web develpoment and Java
+- 🌱 I’m currently learning ...Full Stack Web develpoment and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...wayush777@gmail.com
 - 😄 Pronouns: ...
